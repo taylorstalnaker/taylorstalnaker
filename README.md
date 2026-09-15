@@ -1,15 +1,21 @@
 ## Hi there 👋
 
-My name is Taylor Stalnaker.
+I'm Taylor!
+
+# Background
 
 Pronouns: she/her/hers
 
-### Education
+I'm originally from Southern Maryland. 🦀
 
-Stuff about education :/ 
+# Education 🧠
 
-### Research
+- Current doctoral student at the University of Pittsburgh studying Cognitive Psychology. H2P!
+- I attended The College of Wooster from 2022-2026, where I attained a B.A. in Psychology and Mathematics.
 
-Stuff about research :/
+# Research 🔎
+
+- Currently researching causal learning in elementary aged children
+- Previously studied how individual differences impact choice-by-choice behavior on the Iowa Gambling Task
 
 
