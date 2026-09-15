@@ -18,4 +18,7 @@ I'm originally from Southern Maryland. 🦀
 - Currently researching causal learning in elementary aged children
 - Previously studied how individual differences impact choice-by-choice behavior on the Iowa Gambling Task
 
+# Programming 👩‍💻
 
+- R
+- Python
